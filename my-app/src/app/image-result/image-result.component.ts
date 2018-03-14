@@ -7,7 +7,18 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ImageResultComponent implements OnInit {
 
-  imgProcessed = "assets/image.png";
+  imgProcessed = "assets/images/loading.gif";
+  imgText = "Loading...";
+
+  //Note: Call Process() after image has been uploaded?
+  Process(){
+    //TODO: Implement image process
+
+    //Define location of the processed Image file
+    this.imgProcessed = "assets/images/quack.png"; //Temporary
+    this.imgText = "This is a rubber duck."; //Temporary
+  }
+  
   constructor() { }
 
   ngOnInit() {
