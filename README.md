@@ -44,7 +44,7 @@ ___
 | Mark Coetzer      | 14044537      |https://www.linkedin.com/in/mark-coetzer/ |
 |Orisha Orrie       |13025199       |https://www.linkedin.com/in/orisha-orrie/|
 |Mukundi Matodzi    | 16091265      | |
-|Len Bekker         |11026953       ||
+|Len Bekker         |11026953       |https://www.linkedin.com/in/len-bekker/|
 | Jonathan Lew      | 13318765      | |
 |Tobias Bester      |14041368       |https://www.linkedin.com/in/tobias-bester-1a3a18138/|
 
