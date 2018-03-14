@@ -4,12 +4,14 @@ import { FormsModule } from '@angular/forms' ;
 
 import { AppComponent } from './app.component';
 import { ImageuploaderComponent } from './imageuploader/imageuploader.component';
-
+import { ImageResultComponent } from './image-result/image-result.component';
+ 
 
 @NgModule({
   declarations: [
     AppComponent,
-    ImageuploaderComponent
+    ImageuploaderComponent,
+    ImageResultComponent
   ],
   imports: [
     BrowserModule,
